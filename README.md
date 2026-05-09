@@ -9,7 +9,3 @@ A simple terminal-based notes application built with Python.
 - Delete notes
 - Persistent storage
 
-## Run
-
-```bash
-python app.py
